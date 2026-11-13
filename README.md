@@ -1,11 +1,8 @@
-# Puppy in Autumn Leaves
+# Grandma's Cookies
 
-A golden retriever puppy leaps joyfully through a burst of orange and red
-autumn leaves, mouth open in a huge happy grin and ears flying, warm
-late-afternoon sun flaring behind it while a wooden park bench blurs softly
-in the background. Pure delight, caught mid-air.
-
-The image is 1024x1024 pixels and under 1 MiB.
+A warm photograph of a grandmother and her little granddaughter laughing
+together in a sunny kitchen while baking cookies, flour dusted on their
+noses, a tray of golden cookies between them. The image is 1024x1024 and under 1 MiB.
 
 ## Run it
 
